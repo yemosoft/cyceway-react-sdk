@@ -15,3 +15,4 @@
 export * from "./message";
 export * from "./AuthCallback";
 export * from "./SilentSignin";
+export * from "casdoor-js-sdk";
