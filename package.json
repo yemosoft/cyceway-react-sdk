@@ -1,6 +1,6 @@
 {
   "name": "cyceway-react-sdk",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "React client SDK for cyceway",
   "main": "lib/index.js",
   "module": "lib/index.js",
